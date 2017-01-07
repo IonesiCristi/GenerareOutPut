@@ -1,0 +1,3591 @@
+
+A-----------------------------------------------------
+------------------2words
+##$1##
+apple
+green red yellow big small
+100
+$$#2$$ apples are my favorite
+I love $$#2$$ apples
+$$#2$$ apples are delicious
+##$2##
+-----------------1word
+##$1##
+ability
+##$3##
+100
+i like thys ability
+i have same ability
+##$2##
+
+##$1##
+absence
+##$3##
+100
+I like how you thinking
+##$2##
+
+##$1##
+abuse
+##$3##
+100
+its not a good ideea to abuse
+##$2##
+
+##$1##
+access
+##$3##
+100
+I like how you thinking
+##$2##
+
+##$1##
+accident
+##$3##
+100
+we all have accidents in life its important to move on
+##$2##
+
+##$1##
+account
+##$3##
+100
+your account its funny
+##$2##
+
+##$1##
+action
+##$3##
+100
+I like this action
+##$2##
+
+##$1##
+activity
+##$3##
+100
+I like this activity
+##$2##
+
+##$1##
+actor
+##$3##
+100
+I like that actor very much
+##$2##
+
+##$1##
+actress
+##$3##
+100
+I like this actress very much
+##$2##
+
+##$1##
+address
+##$3##
+100
+I cnow that address
+##$2##
+
+##$1##
+admiration
+##$3##
+100
+y have a great admiration to
+##$2##
+
+##$1##
+adult
+##$3##
+100
+Its great to be an adult 
+##$2##
+
+##$1##
+advantage
+##$3##
+100
+Its great to have a advantage
+##$2##
+
+##$1##
+adventure
+##$3##
+100
+I love a great adventure
+##$2##
+
+##$1##
+advertisement
+##$3##
+100
+Its good to look at advertisement
+##$2##
+
+##$1##
+advice
+##$3##
+100
+I love a good advice
+##$2##
+
+##$1##
+affair
+##$3##
+100
+I love this affair
+##$2##
+
+##$1##
+affection
+##$3##
+100
+I love 2 show my affection
+##$2##
+
+##$1##
+afternoon
+##$3##
+100
+I love this afternoon
+##$2##
+
+##$1##
+agency
+##$3##
+100
+y cnow this agenty
+##$2##
+
+##$1##
+agent
+##$3##
+100
+I like this agent
+##$2##
+
+##$1##
+aggresive
+##$3##
+100
+I dont like the aggresive mood
+##$2##
+
+##$1##
+agreement
+##$3##
+100
+I hope its a good agreement
+##$2##
+
+
+##$1##
+airplane
+##$3##
+100
+I love this airplane
+##$2##
+
+##$1##
+airport
+##$3##
+100
+I love this airport
+##$2##
+
+##$1##
+allowance
+##$3##
+100
+I like this
+##$2##
+
+##$1##
+alphabet
+##$3##
+100
+Its nice 2 cnow this alphabet
+##$2##
+
+##$1##
+alternative
+##$3##
+100
+y hope its a good alternative
+##$2##
+
+##$1##
+always
+##$3##
+100
+never say always :)
+##$2##
+
+##$1##
+amateur
+##$3##
+100
+Its hard to be an amateur
+##$2##
+
+##$1##
+ambitious
+##$3##
+100
+Its great to be ambitious
+##$2##
+
+##$1##
+amount
+##$3##
+100
+I hope that is enough :)
+##$2##
+
+##$1##
+analysis
+##$3##
+100
+I hope its a good analysis
+##$2##
+
+##$1##
+anger
+##$3##
+100
+its not good to be angry 
+##$2##
+
+
+##$1##
+animal
+##$3##
+100
+y like animals 
+##$2##
+
+
+##$1##
+answer
+##$3##
+100
+y hope its a good answer 
+##$2##
+
+
+##$1##
+apartment
+##$3##
+100
+y like that apartment 
+##$2##
+
+
+##$1##
+apology
+##$3##
+100
+that its not a great apology  
+##$2##
+
+
+##$1##
+approach
+##$3##
+100
+its a nice approach
+##$2##
+
+
+##$1##
+april
+##$3##
+100
+april its my favorite month 
+##$2##
+
+
+##$1##
+architect
+##$3##
+100
+y like this job
+##$2##
+
+##$1##
+area
+##$3##
+100
+wee y cnow that area
+##$2##
+
+##$1##
+argument
+##$3##
+100
+lol that argument:D
+##$2##
+
+##$1##
+army
+##$3##
+100
+y love army
+##$2##
+
+##$1##
+arrangement
+##$3##
+100
+y hope its a good arrangement :D
+##$2##
+
+##$1##
+arrow
+##$3##
+100
+y like this arrows
+##$2##
+
+##$1##
+article
+##$3##
+100
+y hope its a nice article
+##$2##
+
+##$1##
+artist
+##$3##
+100
+y like that artist
+##$2##
+
+##$1##
+assistant
+##$3##
+100
+y like this job
+##$2##
+
+##$1##
+athlete
+##$3##
+100
+its good to be athletic
+##$2##
+
+##$1##
+attitude
+##$3##
+100
+all depend on ours attitude :)
+##$2##
+
+##$1##
+august
+##$3##
+100
+beautiful month for a holiday :)
+##$2##
+
+##$1##
+author
+##$3##
+100
+i like this author:D
+##$2##
+
+##$1##
+automobile
+##$3##
+100
+nice automobile:)
+##$2##
+
+##$1##
+autumn
+##$3##
+100
+i like this time of year
+##$2##
+
+##$1##
+avenue
+##$3##
+100
+i cnow this avenue:D
+##$2##
+
+##$1##
+award
+##$3##
+100
+i have many awards:D
+##$2##
+
+
+B---------------------------------------------------
+
+
+##$1##
+baby
+##$3##
+100
+y love baby :D
+##$2##
+
+##$1##
+bartender
+##$3##
+100
+you always need a good bartender:D
+##$2##
+
+##$1##
+baseball
+##$3##
+100
+i love a god baseball game :D
+##$2##
+
+##$1##
+basket
+##$3##
+100
+all you need yts a full basket:D
+##$2##
+
+##$1##
+basketball
+##$3##
+100
+nice the game of Jordan
+##$2##
+
+##$1##
+bathroom
+##$3##
+100
+i like clean bathrooms
+##$2##
+
+##$1##
+beach
+##$3##
+100
+i like this beach
+##$2##
+
+##$1##
+bed
+##$3##
+100
+i always need a good bed:D
+##$2##
+
+##$1##
+beef
+##$3##
+100
+beef ..ym hungry allready :D
+##$2##
+
+##$1##
+behavior
+##$3##
+100
+i hope this behavior yts ok
+##$2##
+
+##$1##
+belt
+##$3##
+100
+yts a nice belt :D
+##$2##
+
+##$1##
+bible
+##$3##
+100
+I read the Bible yts a nice book
+##$2##
+
+##$1##
+bibliography
+##$3##
+100
+i love this bibliography
+##$2##
+
+##$1##
+bicycle
+##$3##
+100
+i like a good bicycle
+##$2##
+
+##$1##
+black
+##$3##
+100
+i love black color
+##$2##
+
+##$1##
+blue
+##$3##
+100
+i love blue color
+##$2##
+
+##$1##
+boat
+##$3##
+100
+its a nice boat :D
+##$2##
+
+##$1##
+body
+##$3##
+100
+i love your budy:D
+##$2##
+
+##$1##
+bomb
+##$3##
+100
+like they say bombs away:D
+##$2##
+
+##$1##
+book
+##$3##
+100
+i love a good book
+##$2##
+
+##$1##
+bottle
+##$3##
+100
+i love this bootle
+##$2##
+
+##$1##
+brain
+##$3##
+100
+you always need a good brain:D
+##$2##
+
+##$1##
+breakfast
+##$3##
+100
+breakfast my favorite part of the day:D
+##$2##
+
+##$1##
+breast
+##$3##
+100
+i love nice breasts:D
+##$2##
+
+##$1##
+bride
+##$3##
+100
+its nice to be a bride
+##$2##
+
+##$1##
+brother
+##$3##
+100
+its good to have a brother
+##$2##
+
+##$1##
+businessman
+##$3##
+100
+its nice to be a businessman
+##$2##
+
+##$1##
+businessperson
+##$3##
+100
+Who does not want to get a business person:D 
+##$2##
+
+##$1##
+businesswomen
+##$3##
+100
+i love a good businesswomen 
+##$2##
+
+##$1##
+butcher
+##$3##
+100
+its nice to be a butcher 
+##$2##
+
+C----------------------------------------------
+
+
+##$1##
+cage
+##$3##
+100
+i like a good cage 
+##$2##
+
+
+##$1##
+bake
+##$3##
+100
+Who does not love cake :d 
+##$2##
+
+##$1##
+calendar
+##$3##
+100
+i have a calendar too:D 
+##$2##
+
+##$1##
+camera
+##$3##
+100
+i love this camera:)
+##$2##
+
+##$1##
+campaign
+##$3##
+100
+its a nice campaign 
+##$2##
+
+##$1##
+candidate
+##$3##
+100
+they are nice candidates 
+##$2##
+
+##$1##
+candy
+##$3##
+100
+Who does not love a sweat candy :d
+##$2##
+
+##$1##
+capacity
+##$3##
+100
+i love this capacity
+##$2##
+
+##$1##
+captain
+##$3##
+100
+this yts my favorite captain
+##$2##
+
+##$1##
+car
+##$3##
+100
+i love a good car
+##$2##
+
+##$1##
+carrot
+##$3##
+100
+I like carrots do good eyesight
+##$2##
+
+##$1##
+cat
+##$3##
+100
+I love cats 
+##$2##
+
+##$1##
+category
+##$3##
+100
+its my favorite category
+##$2##
+
+##$1##
+celebration
+##$3##
+100
+i love celebrations
+##$2##
+
+##$1##
+ceremony
+##$3##
+100
+i like to participate on many ceremonies
+##$2##
+
+##$1##
+chamber
+##$3##
+100
+its a nice chamber
+##$2##
+
+##$1##
+champion
+##$3##
+100
+i like the champions
+##$2##
+
+##$1##
+championship
+##$3##
+100
+championships are interesting
+##$2##
+
+##$1##
+chance
+##$3##
+100
+chance yts gor the winners
+##$2##
+
+##$1##
+chapter
+##$3##
+100
+i love this chapter
+##$2##
+
+##$1##
+character
+##$3##
+100
+i like this chatacters
+##$2##
+
+##$1##
+charity
+##$3##
+100
+its good to help people
+##$2##
+
+##$1##
+cheese
+##$3##
+100
+i love cheese
+##$2##
+
+##$1##
+chemistry
+##$3##
+100
+i love chemistry
+##$2##
+
+##$1##
+chicken
+##$3##
+100
+i love this birds
+##$2##
+
+##$1##
+child
+##$3##
+100
+its nice to be child
+##$2##
+
+##$1##
+childhood
+##$3##
+100
+Who does not like childhood
+##$2##
+
+##$1##
+children
+##$3##
+100
+i love childrens
+##$2##
+
+##$1##
+chocolate
+##$3##
+100
+i love chocolate :D
+##$2##
+
+##$1##
+christmas
+##$3##
+100
+i love christmas :D
+##$2##
+
+##$1##
+church
+##$3##
+100
+its nice to go to church
+##$2##
+
+##$1##
+climate
+##$3##
+100
+its a nice climate
+##$2##
+
+##$1##
+clothes
+##$3##
+100
+nice clothes
+##$2##
+
+##$1##
+coach
+##$3##
+100
+its nice to have a coach
+##$2##
+
+##$1##
+collection
+##$3##
+100
+its a nice collection
+##$2##
+
+##$1##
+college
+##$3##
+100
+i love this college
+##$2##
+
+##$1##
+combination
+##$3##
+100
+i hope yts a good combination :D
+##$2##
+
+##$1##
+comedy
+##$3##
+100
+i love comedy
+##$2##
+
+##$1##
+communication
+##$3##
+100
+its nice to have a good communication
+##$2##
+
+##$1##
+community
+##$3##
+100
+i love this community
+##$2##
+
+##$1##
+company
+##$3##
+100
+its a nice company
+##$2##
+
+##$1##
+composition
+##$3##
+100
+i hope yts a good composition :D
+##$2##
+
+##$1##
+computer
+##$3##
+100
+i like computers
+##$2##
+
+##$1##
+concept
+##$3##
+100
+its a nice concept
+##$2##
+
+##$1##
+constitution
+##$3##
+100
+its a nice constitution
+##$2##
+
+##$1##
+continent
+##$3##
+100
+i love this continent
+##$2##
+
+##$1##
+crew
+##$3##
+100
+its a nice crew
+##$2##
+
+D-----------------------------------------
+
+##$1##
+dad
+##$3##
+100
+i love my dad
+##$2##
+
+##$1##
+damage
+##$3##
+100
+its not nice to damage things
+##$2##
+
+##$1##
+data
+##$3##
+100
+i love this data
+##$2##
+
+##$1##
+daugther
+##$3##
+100
+its a nice daugther/s
+##$2##
+
+##$1##
+decision
+##$3##
+100
+i hope yts a good decision :D
+##$2##
+
+##$1##
+decoration
+##$3##
+100
+i love decorations
+##$2##
+
+##$1##
+definition
+##$3##
+100
+i like this definition
+##$2##
+
+##$1##
+democracy
+##$3##
+100
+i love democracy
+##$2##
+
+##$1##
+dentist
+##$3##
+100
+i love to go to the dentist
+##$2##
+
+##$1##
+department
+##$3##
+100
+its a nice department
+##$2##
+
+##$1##
+desctription
+##$3##
+100
+its a good desctription
+##$2##
+
+##$1##
+desert
+##$3##
+100
+i like the desert
+##$2##
+
+##$1##
+designer
+##$3##
+100
+i like designers
+##$2##
+
+##$1##
+development
+##$3##
+100
+i like this development
+##$2##
+
+##$1##
+device
+##$3##
+100
+its a nice device
+##$2##
+
+##$1##
+diamond
+##$3##
+100
+i love diamonds:D
+##$2##
+
+##$1##
+diary
+##$3##
+100
+a like this diary
+##$2##
+
+##$1##
+dictionary
+##$3##
+100
+its a nice dictionary
+##$2##
+
+##$1##
+difference
+##$3##
+100
+i love this difference
+##$2##
+
+##$1##
+dinner
+##$3##
+100
+i love this dinner
+##$2##
+
+##$1##
+dimension
+##$3##
+100
+its a nice dimension
+##$2##
+
+##$1##
+direction
+##$3##
+100
+hope yts a good direction :D
+##$2##
+
+##$1##
+director
+##$3##
+100
+its a nice director
+##$2##
+
+##$1##
+disagreement
+##$3##
+100
+i dont like disagreements
+##$2##
+
+##$1##
+discussion
+##$3##
+100
+i love this discussions
+##$2##
+
+##$1##
+distribution
+##$3##
+100
+i like this distribution
+##$2##
+
+##$1##
+division
+##$3##
+100
+i like this division
+##$2##
+
+##$1##
+doctor
+##$3##
+100
+i like doctors
+##$2##
+
+##$1##
+document
+##$3##
+100
+i like this document
+##$2##
+
+##$1##
+dollar
+##$3##
+100
+money money money:D
+##$2##
+
+##$1##
+door
+##$3##
+100
+its a nice door
+##$2##
+
+
+
+E--------------------------------
+
+----------2 words
+##$1##
+eye
+green blue brown black
+100
+$$#2$$ eyes are beautiful
+I love $$#2$$ eyes
+$$#2$$ eyes are interesting
+$$#2$$ color is my favorite eye color
+Lots of artists have $$#2$$ eyes
+##$2##
+
+----------1 word
+
+##$1##
+e-mail
+##$3##
+100
+i like this e-mail
+##$2##
+
+##$1##
+ear
+##$3##
+100
+its a nice ear
+##$2##
+
+##$1##
+earth
+##$3##
+100
+i like this earth
+##$2##
+
+##$1##
+economist
+##$3##
+100
+its nice to be economist:D
+##$2##
+
+##$1##
+ecosystem
+##$3##
+100
+i love this ecosystem
+##$2##
+
+##$1##
+edition
+##$3##
+100
+i love this edition
+##$2##
+
+##$1##
+editor
+##$3##
+100
+its a nice editor
+##$2##
+
+##$1##
+education
+##$3##
+100
+its nice to have a good education
+##$2##
+
+##$1##
+effort
+##$3##
+100
+i like this efforts
+##$2##
+
+##$1##
+egg
+##$3##
+100
+i like eggs
+##$2##
+
+##$1##
+election
+##$3##
+100
+I trust in this election:D
+##$2##
+
+##$1##
+electrician
+##$3##
+100
+Its a nice electrician:D
+##$2##
+
+##$1##
+electricity
+##$3##
+100
+electricity amazes me
+##$2##
+
+##$1##
+element
+##$3##
+100
+its a nice element/s
+##$2##
+
+##$1##
+emotion
+##$3##
+100
+emotions are deep things:D
+##$2##
+
+##$1##
+empire
+##$3##
+100
+its a nice empire
+##$2##
+
+##$1##
+employer
+##$3##
+100
+they are nice employers
+##$2##
+
+##$1##
+enemy
+##$3##
+100
+i dont like enemies:D
+##$2##
+
+##$1##
+energy
+##$3##
+100
+this energy make me smile :D
+##$2##
+
+##$1##
+engine
+##$3##
+100
+i like this engine
+##$2##
+
+##$1##
+engineer
+##$3##
+100
+i will be an ingeneer:D
+##$2##
+
+##$1##
+english
+##$3##
+100
+english things are beautiful
+##$2##
+
+##$1##
+entertainment
+##$3##
+100
+i like this entertainment
+##$2##
+
+##$1##
+entrance
+##$3##
+100
+its a nice entrance
+##$2##
+
+##$1##
+entry
+##$3##
+100
+i like this entry
+##$2##
+
+##$1##
+envelope
+##$3##
+100
+its a nice envelope
+##$2##
+
+##$1##
+equipment
+##$3##
+100
+i like this equipment
+##$2##
+
+##$1##
+error
+##$3##
+100
+nice error:D
+##$2##
+
+##$1##
+estate
+##$3##
+100
+i love this estate/s
+##$2##
+
+##$1##
+event
+##$3##
+100
+i like this event
+##$2##
+
+##$1##
+exam
+##$3##
+100
+its a nice exam
+##$2##
+
+##$1##
+examination
+##$3##
+100
+i like this examination
+##$2##
+
+##$1##
+example
+##$3##
+100
+its a nice example
+##$2##
+
+##$1##
+exception
+##$3##
+100
+its a nice exception
+##$2##
+
+##$1##
+eye
+##$3##
+100
+we talk about eye yeeee
+##$2##
+
+
+F---------------------------
+
+##$1##
+factory
+##$3##
+100
+its a nice factory
+##$2##
+
+##$1##
+faculty
+##$3##
+100
+its a nice faculty
+##$2##
+
+##$1##
+failure
+##$3##
+100
+failure its not a choise for me:D
+##$2##
+
+##$1##
+faith
+##$3##
+100
+its good to have faith
+##$2##
+
+##$1##
+farm
+##$3##
+100
+i wold like to live on a farm
+##$2##
+
+##$1##
+father
+##$3##
+100
+Who does not love his father
+##$2##
+
+##$1##
+feather
+##$3##
+100
+i like the feathers
+##$2##
+
+##$1##
+feeling
+##$3##
+100
+i love good feelings
+##$2##
+
+##$1##
+fiber
+##$3##
+100
+its a nice fiber
+##$2##
+
+##$1##
+field
+##$3##
+100
+its a nice field
+##$2##
+
+##$1##
+flag
+##$3##
+100
+i like this flag
+##$2##
+
+##$1##
+floor
+##$3##
+100
+i like this floor
+##$2##
+
+##$1##
+flour
+##$3##
+100
+I like to cook with flour 
+##$2##
+
+##$1##
+flower
+##$3##
+100
+flowers are so beautiful 
+##$2##
+
+
+##$1##
+football
+##$3##
+100
+football yts my favorite game 
+##$2##
+
+
+##$1##
+forest
+##$3##
+100
+I like this forest 
+##$2##
+
+
+##$1##
+fraternity
+##$3##
+100
+I like this fraternity 
+##$2##
+
+
+##$1##
+funny
+##$3##
+100
+I love funny things 
+##$2##
+
+
+G---------------------------------
+
+
+##$1##
+game
+##$3##
+100
+I love a nice game 
+##$2##
+
+
+##$1##
+garage
+##$3##
+100
+its a nice garage 
+##$2##
+
+
+##$1##
+garbage
+##$3##
+100
+yeach garbage:D 
+##$2##
+
+
+##$1##
+garden
+##$3##
+100
+its a beautiful garden 
+##$2##
+
+
+##$1##
+gate
+##$3##
+100
+its a nice gate 
+##$2##
+
+
+##$1##
+gear
+##$3##
+100
+i love this gear 
+##$2##
+
+
+##$1##
+gender
+##$3##
+100
+I love this gender 
+##$2##
+
+
+##$1##
+generation
+##$3##
+100
+i like this generation 
+##$2##
+
+
+##$1##
+gene
+##$3##
+100
+this gene its interesant
+##$2##
+
+
+##$1##
+gentleman
+##$3##
+100
+it's always better to be a gentleman 
+##$2##
+
+##$1##
+geography
+##$3##
+100
+i love geography
+##$2##
+
+##$1##
+gift
+##$3##
+100
+i love gifts 
+##$2##
+
+##$1##
+girl
+##$3##
+100
+its nice to be a girl 
+##$2##
+
+##$1##
+glass
+##$3##
+100
+i love this glass 
+##$2##
+
+##$1##
+glove
+##$3##
+100
+i like this gloves 
+##$2##
+
+##$1##
+goal
+##$3##
+100
+its a nice goal
+##$2##
+
+##$1##
+goalkeeper
+##$3##
+100
+its my favorite goalkeeper 
+##$2##
+
+##$1##
+god
+##$3##
+100
+a god its important 
+##$2##
+
+##$1##
+gold
+##$3##
+100
+Who does not love gold:D
+##$2##
+
+
+##$1##
+government
+##$3##
+100
+its a nice government
+##$2##
+
+
+##$1##
+governor
+##$3##
+100
+i like this governor
+##$2##
+
+
+##$1##
+grandchild
+##$3##
+100
+its a nice grandchild
+##$2##
+
+##$1##
+granddaughter
+##$3##
+100
+its a nice granddaughter
+##$2##
+
+##$1##
+grandfather
+##$3##
+100
+its a nice grandfather
+##$2##
+
+##$1##
+grandmother
+##$3##
+100
+its a nice grandmother
+##$2##
+
+##$1##
+grandparent
+##$3##
+100
+its a nice grandparent
+##$2##
+
+##$1##
+grandson
+##$3##
+100
+its a nice grandson
+##$2##
+
+##$1##
+grass
+##$3##
+100
+i love the grass
+##$2##
+
+##$1##
+green
+##$3##
+100
+green its a nice colour
+##$2##
+
+##$1##
+grocery
+##$3##
+100
+i love this grocery
+##$2##
+
+##$1##
+ground
+##$3##
+100
+i like this ground
+##$2##
+
+##$1##
+group
+##$3##
+100
+its nice to have a group
+##$2##
+
+##$1##
+guardian
+##$3##
+100
+i love this guardian
+##$2##
+
+##$1##
+guest
+##$3##
+100
+its a nice guest
+##$2##
+
+##$1##
+green
+##$3##
+100
+i like green colour
+##$2##
+
+H----------------------
+
+##$1##
+habit
+##$3##
+100
+its a nice habit
+##$2##
+
+##$1##
+habitat
+##$3##
+100
+i like this habitat
+##$2##
+
+##$1##
+hair
+##$3##
+100
+its a nice hair
+##$2##
+
+##$1##
+hammer
+##$3##
+100
+i love this hammer
+##$2##
+
+##$1##
+handwriting
+##$3##
+100
+i like this handwriting
+##$2##
+
+##$1##
+heaven
+##$3##
+100
+its good to go to heaven
+##$2##
+
+##$1##
+hill
+##$3##
+100
+i like this hill
+##$2##
+
+##$1##
+history
+##$3##
+100
+i love this history
+##$2##
+
+##$1##
+hockey
+##$3##
+100
+i love hockey
+##$2##
+
+##$1##
+honesty
+##$3##
+100
+i like the honesty
+##$2##
+
+##$1##
+horse
+##$3##
+100
+i like this horse
+##$2##
+
+##$1##
+hospital
+##$3##
+100
+i like this hospital
+##$2##
+
+##$1##
+hotel
+##$3##
+100
+its a nice hotel
+##$2##
+
+##$1##
+house
+##$3##
+100
+its a nice house
+##$2##
+
+I-----------------------------
+
+##$1##
+ice
+##$3##
+100
+i like this ice
+##$2##
+
+##$1##
+idea
+##$3##
+100
+its a nice idea
+##$2##
+
+##$1##
+identity
+##$3##
+100
+i love this identity
+##$2##
+
+##$1##
+imagination
+##$3##
+100
+its good to have a big imagination
+##$2##
+
+##$1##
+impression
+##$3##
+100
+its nice to have a good impression
+##$2##
+
+##$1##
+information
+##$3##
+100
+nice information:)
+##$2##
+
+##$1##
+ingredient
+##$3##
+100
+its a nice ingredient
+##$2##
+
+##$1##
+initiative
+##$3##
+100
+its a good initiative
+##$2##
+
+##$1##
+instance
+##$3##
+100
+i like this instance
+##$2##
+
+##$1##
+institution
+##$3##
+100
+i like this institution
+##$2##
+
+##$1##
+instructor
+##$3##
+100
+i like this instructor
+##$2##
+
+##$1##
+instrument
+##$3##
+100
+its a nice instrument
+##$2##
+
+##$1##
+intelligence
+##$3##
+100
+i love the intelligence
+##$2##
+
+##$1##
+intention
+##$3##
+100
+i like this intention
+##$2##
+
+##$1##
+internet
+##$3##
+100
+i love the internet
+##$2##
+
+##$1##
+interval
+##$3##
+100
+i like this interval
+##$2##
+
+##$1##
+investment
+##$3##
+100
+its a nice investment
+##$2##
+
+##$1##
+itinerary
+##$3##
+100
+i like this itinerary
+##$2##
+
+
+J-------------------------------
+
+##$1##
+jacket
+##$3##
+100
+i love this jacket
+##$2##
+
+##$1##
+jellies
+##$3##
+100
+i love the jellies 
+##$2##
+
+##$1##
+jewel
+##$3##
+100
+i like this jewel
+##$2##
+
+##$1##
+jewelry
+##$3##
+100
+i like this jewelry
+##$2##
+
+##$1##
+joke
+##$3##
+100
+i love this joke
+##$2##
+
+##$1##
+journal
+##$3##
+100
+its a nice journal
+##$2##
+
+##$1##
+journey
+##$3##
+100
+its a nice journey
+##$2##
+
+##$1##
+judgment
+##$3##
+100
+i like this judgment
+##$2##
+
+##$1##
+justice
+##$3##
+100
+i like the justice
+##$2##
+
+
+K-----------------------------------
+
+##$1##
+kid
+##$3##
+100
+i love kids
+##$2##
+
+##$1##
+king
+##$3##
+100
+i like this king
+##$2##
+
+##$1##
+kingdom
+##$3##
+100
+its a nice kingdom
+##$2##
+
+##$1##
+kitchen
+##$3##
+100
+i love the kitchen
+##$2##
+
+##$1##
+knife
+##$3##
+100
+its a nice knife
+##$2##
+
+##$1##
+knowledge
+##$3##
+100
+knowledge is a great thing
+##$2##
+
+L------------------------------
+
+##$1##
+laboratory
+##$3##
+100
+i like this laboratory
+##$2##
+
+##$1##
+lady
+##$3##
+100
+its a nice lady
+##$2##
+
+##$1##
+lake
+##$3##
+100
+i like this lake
+##$2##
+
+##$1##
+lamp
+##$3##
+100
+i like this lamp
+##$2##
+
+##$1##
+language
+##$3##
+100
+i like this language
+##$2##
+
+##$1##
+lawyer
+##$3##
+100
+its a nice lowyer
+##$2##
+
+##$1##
+leader
+##$3##
+100
+i like this leader
+##$2##
+
+##$1##
+league
+##$3##
+100
+its a nice league
+##$2##
+
+##$1##
+length
+##$3##
+100
+its a nice length
+##$2##
+
+##$1##
+letter
+##$3##
+100
+i love the letter
+##$2##
+
+##$1##
+liberty
+##$3##
+100
+i love the liberty
+##$2##
+
+##$1##
+library
+##$3##
+100
+i love the library
+##$2##
+
+##$1##
+license
+##$3##
+100
+i like the license
+##$2##
+
+##$1##
+life
+##$3##
+100
+i love the life
+##$2##
+
+##$1##
+location
+##$3##
+100
+its a nice location
+##$2##
+
+M---------------------------
+
+##$1##
+machine
+##$3##
+100
+its a nice machine
+##$2##
+
+##$1##
+magazine
+##$3##
+100
+i like the magazine
+##$2##
+
+##$1##
+market
+##$3##
+100
+i like this market
+##$2##
+
+##$1##
+marriage
+##$3##
+100
+marriage ia a great thing
+##$2##
+
+##$1##
+mechanism
+##$3##
+100
+i like the mechanism
+##$2##
+
+##$1##
+media
+##$3##
+100
+i love the media
+##$2##
+
+##$1##
+medicine
+##$3##
+100
+i like the medicine
+##$2##
+
+##$1##
+meeting
+##$3##
+100
+its a nice meeting
+##$2##
+
+##$1##
+menu
+##$3##
+100
+i like the menu
+##$2##
+
+##$1##
+message
+##$3##
+100
+i like this message
+##$2##
+
+##$1##
+miracle
+##$3##
+100
+i like this miracle
+##$2##
+
+##$1##
+mirror
+##$3##
+100
+its a nice mirror
+##$2##
+
+##$1##
+mission
+##$3##
+100
+its a nice misson
+##$2##
+
+##$1##
+mountain
+##$3##
+100
+i love the mountain
+##$2##
+
+##$1##
+handwriting
+##$3##
+100
+its a nice mouse
+##$2##
+
+N--------------------------
+
+##$1##
+nation
+##$3##
+100
+its a nice nation
+##$2##
+
+##$1##
+nature
+##$3##
+100
+i love the nature
+##$2##
+
+##$1##
+navy
+##$3##
+100
+i like the navy
+##$2##
+
+##$1##
+neighbor
+##$3##
+100
+its a nice neighbor
+##$2##
+
+##$1##
+neighborhood
+##$3##
+100
+its a nice neighborhood
+##$2##
+
+##$1##
+network
+##$3##
+100
+its a nice network
+##$2##
+
+##$1##
+news
+##$3##
+100
+its a nice news
+##$2##
+
+##$1##
+newspapper
+##$3##
+100
+i like the newspapper
+##$2##
+
+##$1##
+notebook
+##$3##
+100
+its a nice notebook
+##$2##
+
+##$1##
+nurse
+##$3##
+100
+i like the nurse
+##$2##
+
+##$1##
+nutritionist
+##$3##
+100
+its nice to be nutritionist
+##$2##
+
+O--------------------------------
+
+
+##$1##
+oath
+##$3##
+100
+i love the oath
+##$2##
+
+##$1##
+observation
+##$3##
+100
+its a nice observation
+##$2##
+
+##$1##
+occasion
+##$3##
+100
+its a nice occasion
+##$2##
+
+##$1##
+ocean
+##$3##
+100
+i love the ocean
+##$2##
+
+##$1##
+october
+##$3##
+100
+i love october
+##$2##
+
+##$1##
+operation
+##$3##
+100
+its a nice operation
+##$2##
+
+##$1##
+opinion
+##$3##
+100
+its a nice opinion
+##$2##
+
+##$1##
+option
+##$3##
+100
+i love the option
+##$2##
+
+##$1##
+orange
+##$3##
+100
+orange yts my favorite
+##$2##
+
+P------------------------------
+
+
+##$1##
+package
+##$3##
+100
+its a nice package
+##$2##
+
+##$1##
+painting
+##$3##
+100
+i love the painting
+##$2##
+
+##$1##
+pants
+##$3##
+100
+the pants are great
+##$2##
+
+##$1##
+paper
+##$3##
+100
+its a nice paper
+##$2##
+
+##$1##
+parade
+##$3##
+100
+i like the parade
+##$2##
+
+##$1##
+passage
+##$3##
+100
+its a nice passage
+##$2##
+
+##$1##
+passenger
+##$3##
+100
+its a nice passenger
+##$2##
+
+##$1##
+passport
+##$3##
+100
+i like this passport
+##$2##
+
+##$1##
+people
+##$3##
+100
+i love the people
+##$2##
+
+##$1##
+pepper
+##$3##
+100
+i like the pepper
+##$2##
+
+##$1##
+performance
+##$3##
+100
+its a nice performance
+##$2##
+
+##$1##
+perfume
+##$3##
+100
+its a nice perfume
+##$2##
+
+##$1##
+period
+##$3##
+100
+its a nice period
+##$2##
+
+##$1##
+person
+##$3##
+100
+its a nice person
+##$2##
+
+##$1##
+personality
+##$3##
+100
+its a nice personality
+##$2##
+
+##$1##
+philosophy
+##$3##
+100
+i love the philosophy
+##$2##
+
+##$1##
+photographer
+##$3##
+100
+its a nice photographer
+##$2##
+
+##$1##
+photography
+##$3##
+100
+i love the photography
+##$2##
+
+##$1##
+picture
+##$3##
+100
+its a nice picture
+##$2##
+
+##$1##
+piano
+##$3##
+100
+its a nice piano
+##$2##
+
+##$1##
+planet
+##$3##
+100
+i like the planet
+##$2##
+
+##$1##
+platform
+##$3##
+100
+its a nice platform
+##$2##
+
+##$1##
+player
+##$3##
+100
+i love the player
+##$2##
+
+##$1##
+politician
+##$3##
+100
+its a nice politician
+##$2##
+
+##$1##
+population
+##$3##
+100
+i like the population
+##$2##
+
+##$1##
+prayer
+##$3##
+100
+its a nice prayer
+##$2##
+
+##$1##
+preposition
+##$3##
+100
+its a nice preposition
+##$2##
+
+##$1##
+prescription
+##$3##
+100
+i love the prescription
+##$2##
+
+##$1##
+programmer
+##$3##
+100
+its nice to be a programmer
+##$2##
+
+
+Q----------------------------
+
+
+##$1##
+qualification
+##$3##
+100
+its a nice qualification
+##$2##
+
+##$1##
+quality
+##$3##
+100
+i like this quality
+##$2##
+
+##$1##
+quantity
+##$3##
+100
+i like this quantity
+##$2##
+
+##$1##
+queen
+##$3##
+100
+its a nice queen
+##$2##
+
+
+R-----------------------
+
+##$1##
+radio
+##$3##
+100
+i love the radio
+##$2##
+
+##$1##
+reaction
+##$3##
+100
+its a nice reaction
+##$2##
+
+##$1##
+reason
+##$3##
+100
+i love the reason
+##$2##
+
+##$1##
+red
+##$3##
+100
+red is a beautiful color
+##$2##
+
+##$1##
+refrigerator
+##$3##
+100
+i love the refrigerator
+##$2##
+
+##$1##
+region
+##$3##
+100
+i love the region
+##$2##
+
+##$1##
+relationship
+##$3##
+100
+its a n nice relationship
+##$2##
+
+##$1##
+relief
+##$3##
+100
+its a nice relief
+##$2##
+
+##$1##
+religion
+##$3##
+100
+i like the religion
+##$2##
+
+##$1##
+reputation
+##$3##
+100
+its a nice reputation
+##$2##
+
+##$1##
+resistance
+##$3##
+100
+its good to have resistance:D
+##$2##
+
+##$1##
+resource
+##$3##
+100
+its a nice resource
+##$2##
+
+##$1##
+responsability
+##$3##
+100
+responsibility is an asset :D
+##$2##
+
+##$1##
+restaurant
+##$3##
+100
+its a beautiful restaurant
+##$2##
+
+##$1##
+room
+##$3##
+100
+i like the room
+##$2##
+
+##$1##
+roommate
+##$3##
+100
+its a nice roommte
+##$2##
+
+S------------------------------
+
+##$1##
+salad
+##$3##
+100
+i like the salad
+##$2##
+
+##$1##
+salary
+##$3##
+100
+the salary day rullz:D
+##$2##
+
+##$1##
+salesman
+##$3##
+100
+i like a good salesman
+##$2##
+
+##$1##
+salesperson
+##$3##
+100
+i like a good salesperson
+##$2##
+
+##$1##
+saleswoman
+##$3##
+100
+i like a good saleswoman
+##$2##
+
+##$1##
+sandwich
+##$3##
+100
+i like a good sandwich
+##$2##
+
+##$1##
+souce
+##$3##
+100
+i like a good souce
+##$2##
+
+##$1##
+scene
+##$3##
+100
+its a good scene
+##$2##
+
+##$1##
+scenary
+##$3##
+100
+i like a good scenary
+##$2##
+
+##$1##
+school
+##$3##
+100
+i like a good school
+##$2##
+
+##$1##
+scientist
+##$3##
+100
+i like a good scientist
+##$2##
+
+##$1##
+screen
+##$3##
+100
+i like a good screen
+##$2##
+
+##$1##
+sea
+##$3##
+100
+i love the sea
+##$2##
+
+##$1##
+season
+##$3##
+100
+i like the season
+##$2##
+
+##$1##
+secretary
+##$3##
+100
+i like a good secretary
+##$2##
+
+##$1##
+semester
+##$3##
+100
+i like the semester
+##$2##
+
+##$1##
+senate
+##$3##
+100
+its a nice senate
+##$2##
+
+##$1##
+session
+##$3##
+100
+i like the session
+##$2##
+
+##$1##
+shadow
+##$3##
+100
+its a nice shadow
+##$2##
+
+##$1##
+silk
+##$3##
+100
+i like the silk
+##$2##
+
+##$1##
+silver
+##$3##
+100
+silver its always nice
+##$2##
+
+##$1##
+soap
+##$3##
+100
+its a nice soap
+##$2##
+
+##$1##
+soccer
+##$3##
+100
+i like the soccer
+##$2##
+
+##$1##
+soldier
+##$3##
+100
+its nice to be a soldier
+##$2##
+
+##$1##
+soup
+##$3##
+100
+i like the soup
+##$2##
+
+##$1##
+spectator
+##$3##
+100
+its nice to be a spectator
+##$2##
+
+##$1##
+spoon
+##$3##
+100
+i like a good spoon
+##$2##
+
+##$1##
+sport
+##$3##
+100
+i like the sport
+##$2##
+
+##$1##
+spring
+##$3##
+100
+i like the spring
+##$2##
+
+##$1##
+stadium
+##$3##
+100
+its a nice stadium
+##$2##
+
+##$1##
+stage
+##$3##
+100
+its a nice stage
+##$2##
+
+##$1##
+stars
+##$3##
+100
+i like the stars
+##$2##
+
+##$1##
+stepfather
+##$3##
+100
+its nice to be a stepfather
+##$2##
+
+##$1##
+stepmother
+##$3##
+100
+its nice to be a stepmother
+##$2##
+
+##$1##
+storage
+##$3##
+100
+i like a good storage
+##$2##
+
+##$1##
+starategy
+##$3##
+100
+i like a good strategy
+##$2##
+
+##$1##
+student
+##$3##
+100
+its nice to be a student
+##$2##
+
+##$1##
+substance
+##$3##
+100
+its nice substance
+##$2##
+
+##$1##
+sugar
+##$3##
+100
+i like the sugar
+##$2##
+
+##$1##
+suggestion
+##$3##
+100
+hope its a good suggestion:D
+##$2##
+
+##$1##
+sunshine
+##$3##
+100
+i like the sunshine
+##$2##
+
+T----------------------------
+
+##$1##
+table
+##$3##
+100
+its a nice table
+##$2##
+
+##$1##
+tail
+##$3##
+100
+its a nice tail
+##$2##
+
+##$1##
+tank
+##$3##
+100
+its a nice tank
+##$2##
+
+##$1##
+tape
+##$3##
+100
+its a nice tape
+##$2##
+
+##$1##
+taxi
+##$3##
+100
+its a nice taxi
+##$2##
+
+##$1##
+teacher
+##$3##
+100
+its a nice to be a teacher
+##$2##
+
+##$1##
+team
+##$3##
+100
+i love a good team
+##$2##
+
+##$1##
+technique
+##$3##
+100
+its a nice technique
+##$2##
+
+##$1##
+technology
+##$3##
+100
+i like the tehnology
+##$2##
+
+##$1##
+telephone
+##$3##
+100
+its a nice telephone
+##$2##
+
+##$1##
+television
+##$3##
+100
+i like the television
+##$2##
+
+##$1##
+temperature
+##$3##
+100
+its a nice temperature
+##$2##
+
+##$1##
+temple
+##$3##
+100
+its a nice temple
+##$2##
+
+##$1##
+tennis
+##$3##
+100
+tennis its a cool game
+##$2##
+
+##$1##
+territory
+##$3##
+100
+i like this territory
+##$2##
+
+##$1##
+textbook
+##$3##
+100
+its a nice textbook
+##$2##
+
+##$1##
+theater
+##$3##
+100
+i love to go to the theater
+##$2##
+
+##$1##
+therapist
+##$3##
+100
+its nice to be a therapist
+##$2##
+
+##$1##
+thought
+##$3##
+100
+its a nice thought
+##$2##
+
+##$1##
+tradition
+##$3##
+100
+i like the traditions
+##$2##
+
+##$1##
+treasure
+##$3##
+100
+its a nice treasure
+##$2##
+
+##$1##
+trophy
+##$3##
+100
+its a nice trophy
+##$2##
+
+
+U----------------------------
+
+
+##$1##
+umbrella
+##$3##
+100
+its a nice umbrela
+##$2##
+
+##$1##
+uncle
+##$3##
+100
+its nice to be a uncle
+##$2##
+
+##$1##
+universe
+##$3##
+100
+i like the universe
+##$2##
+
+##$1##
+university
+##$3##
+100
+its a nice university
+##$2##
+
+##$1##
+user
+##$3##
+100
+i love a good user
+##$2##
+
+
+V-----------------------------
+
+##$1##
+vacantion
+##$3##
+100
+i like a long vacation
+##$2##
+
+##$1##
+valley
+##$3##
+100
+its a nice valley
+##$2##
+
+##$1##
+variety
+##$3##
+100
+i like the variety
+##$2##
+
+##$1##
+vehicle
+##$3##
+100
+its a nice vehicle
+##$2##
+
+##$1##
+verdict
+##$3##
+100
+i love a good verdict
+##$2##
+
+##$1##
+version
+##$3##
+100
+i like this version
+##$2##
+
+##$1##
+victory
+##$3##
+100
+i like a good victory
+##$2##
+
+##$1##
+village
+##$3##
+100
+i like the village
+##$2##
+
+##$1##
+vision
+##$3##
+100
+its a nice vision
+##$2##
+
+##$1##
+tail
+##$3##
+100
+its nice tail
+##$2##
+
+##$1##
+visitor
+##$3##
+100
+its a nice visitor
+##$2##
+
+W--------------------------
+
+##$1##
+waiter
+##$3##
+100
+its nice to be a waiter
+##$2##
+
+##$1##
+wallet
+##$3##
+100
+i like a nice wallet
+##$2##
+
+##$1##
+weakness
+##$3##
+100
+i like this weakness
+##$2##
+
+##$1##
+weapon
+##$3##
+100
+its a nice weapon
+##$2##
+
+##$1##
+weather
+##$3##
+100
+i like a nice weather
+##$2##
+
+##$1##
+wedding
+##$3##
+100
+i like a nice wedding
+##$2##
+
+##$1##
+weekend
+##$3##
+100
+i like the weekend
+##$2##
+
+##$1##
+white
+##$3##
+100
+white its a nice colour
+##$2##
+
+##$1##
+wife
+##$3##
+100
+its nice to be a wife
+##$2##
+
+##$1##
+winter
+##$3##
+100
+i like the winter
+##$2##
+
+##$1##
+wisdom
+##$3##
+100
+its nice to be a wisdom person
+##$2##
+
+##$1##
+woman
+##$3##
+100
+its nice to be a woman
+##$2##
+
+##$1##
+yellow
+##$3##
+100
+yellow its a nice colour
+##$2##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

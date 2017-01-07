@@ -5,6 +5,7 @@ import rawWords
 import replaceWordsWithSyn
 import generateSynonims
 import random
+#import flattery
 
 def generateOutPut(sentence):
 
@@ -28,3 +29,4 @@ def generateOutPut(sentence):
 
     return newSentence
 
+#print generateOutPut("Daniel talks to some of the most powerful and influential people in poker about issues that matter to you.")
