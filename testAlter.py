@@ -90,6 +90,17 @@ def verifyAddOnomatopee():
         print ("\n")
 
 
+def verifyWriteWrongLetter():
+    print ("ChatBot adauga onomatopee: ")
+    time.sleep(2)
+    for i in range(len(text)):
+        print("Original text: ", text[i])
+        modifyedText = Alter.writeWrongLetter(text[i])
+        print("Modifyed text: ", modifyedText)
+        time.sleep(2)
+        print ("\n")
+
+
 
 def verifyAlter():
     print ("ChatBot adauga onomatopee: ")
@@ -108,3 +119,4 @@ def verifyAlter():
 #verifyLowerRandomLetter()
 #verifyAddOnomatopee()
 verifyAlter()
+#verifyWriteWrongLetter()

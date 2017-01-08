@@ -22,9 +22,8 @@ def generateOutPut(sentence):
     if randIncurajare == 1:
         newSentence = incurajatori.creeazaSintagmaMagulire(newSentence)
 
-    for i in range(0,randAlter):
-       oldSentence = alter.alter(newSentence, 1, 2)
-       newSentence = oldSentence
+    oldSentence = alter.alter(newSentence)
+    newSentence = oldSentence
        #print newSentence
     #newSentence = informal.useContractions(newSentence)
 
