@@ -14,6 +14,8 @@ def inverse2letters(text):
     return textNou
 
 def elidateRandomLetter(text):
+    if len(text) <=2 :
+        return text
     index = random.randint(1, len(text)-2)
     textNou =  text[:(index )] + text[index + 1] +text[(index + 2):]
     return textNou
@@ -51,8 +53,8 @@ def addOnomatopee(text):
 
 #####################
 #atentie! la adaugarea unei noi functii de alterare, a se adauga in lista de mai jos
-listOfFunctions = [inverse2letters, elidateRandomLetter, lowerFirstLetter, upperFirst2Letters, lowerRandomLetter, addOnomatopee]
-NUMBER_OF_ALTERING_FUNCTIONS = 6 # len(listOfFunctions)
+listOfFunctions = [inverse2letters, elidateRandomLetter, lowerFirstLetter, upperFirst2Letters, lowerRandomLetter]
+NUMBER_OF_ALTERING_FUNCTIONS = 5 # len(listOfFunctions)
 
 ALTERATIONS_MADE = 0
 #####################
@@ -64,27 +66,30 @@ def alter(text, freqMin = 1, freqMax = 3):
     oarecare, pentru a sugera umanitatea
 
     :param text: textul de modificat
-    :param freqMin: frecventa minima a alterarilor facute
-    :param freqMax: frecventa maxima a alterarilor facute
+    :param freqMin: frecventa minima a alterarilor facute pe unitCharcters caractere prezente
+    :param freqMax: frecventa maxima a alterarilor facute pe unitCharcters caractere prezente
     :return:
     '''
     try:
         global ALTERATIONS_MADE
         global NUMBER_OF_ALTERING_FUNCTIONS
-        indexRandom = random.randint(freqMin, freqMax)
-        indexAlteringFunction = random.randint(0, NUMBER_OF_ALTERING_FUNCTIONS-1)
-        print ( "Alterations_made: ", ALTERATIONS_MADE, "\nindex_random: ", indexRandom)
-        if ALTERATIONS_MADE >= indexRandom :
-            ALTERATIONS_MADE = 0
-            textNou = listOfFunctions[indexAlteringFunction](text)
-        else:
-            ALTERATIONS_MADE += 1
-            textNou = text
+        unitCharcters = 30
+        numberErrorsToBeDone = int(len(text)/unitCharcters)+1
+        print numberErrorsToBeDone
+        for i in xrange(numberErrorsToBeDone):
+            indexRandom = random.randint(freqMin, freqMax)
+            indexAlteringFunction = random.randint(0, NUMBER_OF_ALTERING_FUNCTIONS-1)
+            print ( "Alterations_made: ", ALTERATIONS_MADE, "\nindex_random: ", indexRandom)
+            if ALTERATIONS_MADE >= indexRandom :
+                ALTERATIONS_MADE = 0
+                textNou = listOfFunctions[indexAlteringFunction](text)
+            else:
+                ALTERATIONS_MADE += 1
+                textNou = text
+        return textNou
     except:
         print ("Avem probleme in functia alter/alter.py")
-    return textNou
-
-listOfFunctions = [inverse2letters, elidateRandomLetter, lowerFirstLetter, upperFirst2Letters, lowerRandomLetter, addOnomatopee]
+    return text
 
 
 

@@ -22,7 +22,7 @@ def generateOutPut(sentence):
     if randIncurajare == 1:
         newSentence = incurajatori.creeazaSintagmaMagulire(newSentence)
 
-    for i in range(0,15):
+    for i in range(0,randAlter):
        oldSentence = alter.alter(newSentence, 1, 2)
        newSentence = oldSentence
        #print newSentence
