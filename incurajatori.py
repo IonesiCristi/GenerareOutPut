@@ -68,6 +68,5 @@ def creeazaSintagmaMagulire(text):
 
     raspuns = ""+expresiiApreciere[indexCumApreciaza] \
               + sintagmeApreciate[indexCeApreciaza] \
-              + expresiiIncurajareContinuare[indexContinuare]
 
     return "" + text + "\n" + raspuns

@@ -15,9 +15,9 @@ def generateOutPut(sentence):
 
     newSentence = replaceWordsWithSyn.replaceWordsWithSyn(synonims,wordsToBeReplaced,sentence)
 
-    randIncurajare = random.randint(0,1)
+    randIncurajare = random.randint(0,2)
 
-    randAlter = random.randint(0,3)
+    randAlter = random.randint(5,7)
 
     if randIncurajare == 1:
         newSentence = incurajatori.creeazaSintagmaMagulire(newSentence)
@@ -29,4 +29,4 @@ def generateOutPut(sentence):
 
     return newSentence
 
-#print generateOutPut("Daniel talks to some of the most powerful and influential people in poker about issues that matter to you.")
+print generateOutPut("What would be your perfect day? ")

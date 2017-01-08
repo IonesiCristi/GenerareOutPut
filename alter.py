@@ -60,7 +60,7 @@ ALTERATIONS_MADE = 0
 #####################
 
 
-def alter(text, freqMin = 1, freqMax = 3):
+def alter(text, freqMin =2, freqMax = 3):
     '''
     Functia alter urmareste sa modifice textul corect, alterandul cu o frecventa
     oarecare, pentru a sugera umanitatea

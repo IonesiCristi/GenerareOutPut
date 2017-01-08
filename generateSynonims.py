@@ -23,8 +23,7 @@ def generateSynonims(words):
                 if not dictionarySynonims:
                         synonims.append(w[0])
                 else:
-                        while len(dictionarySynonims) <= aux:
-                                aux = random.randrange(4)
+                        aux = random.randrange(len(dictionarySynonims))
                         syn = dictionarySynonims[aux]
                         synonims.append(syn)
 
