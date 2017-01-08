@@ -22,11 +22,12 @@ def generateOutPut(sentence):
     if randIncurajare == 1:
         newSentence = incurajatori.creeazaSintagmaMagulire(newSentence)
 
-    for i in range(0,randAlter):
-       newSentence = alter.alter(newSentence)
-
-    newSentence = informal.useContractions(newSentence)
+    for i in range(0,15):
+       oldSentence = alter.alter(newSentence, 1, 2)
+       newSentence = oldSentence
+       #print newSentence
+    #newSentence = informal.useContractions(newSentence)
 
     return newSentence
 
-print generateOutPut("What would be your perfect day? ")
+print generateOutPut("I like cats.")
