@@ -1,8 +1,8 @@
 import random
 
-##########################
+###########################
 # Functia pe care o veti folosi de aici este alter(text, freqMin = 1, freqMax = 3)
-##########################
+###########################
 
 def inverse2letters(text):
     index = random.randint(1, len(text)-2)
