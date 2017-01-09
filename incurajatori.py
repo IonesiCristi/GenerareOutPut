@@ -35,7 +35,7 @@ sintagmeApreciate = [
     " that you make me think. ",
     " how you make me think. ",
     " you make me remember lessons learnt long time ago. ",
-    " you encourage me remember old ides. "
+    " you encourage me remember old ideas. "
 ]
 expresiiIncurajareContinuare = [
     "There you go!",

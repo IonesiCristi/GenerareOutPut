@@ -44,12 +44,12 @@ def getWord(text, indexOldLetter):
         ''' Functia scoate cuvantul in care se face modificarea unei litere
         '''
         spatiu = 0
-        for i in xrange(indexOldLetter):
+        for i in range(indexOldLetter):
             if text[i] == ' ':
                 spatiu = i
 
         sp2 = indexOldLetter
-        for i in xrange(indexOldLetter, len(text)):
+        for i in range(indexOldLetter, len(text)):
             if text[i] == ' ':
                 sp2 = i
                 break
@@ -57,7 +57,7 @@ def getWord(text, indexOldLetter):
             sp2 = len(text)
 
         cuvant = ""
-        for i in xrange(spatiu, sp2):
+        for i in range(spatiu, sp2):
             cuvant += text[i]
         #print "**", cuvant
         return cuvant
@@ -115,10 +115,10 @@ def alter(text, freqMin = 1, freqMax = 3):
     try:
         global ALTERATIONS_MADE
         global NUMBER_OF_ALTERING_FUNCTIONS
-        unitCharcters = 30
+        unitCharcters = 20
         numberErrorsToBeDone = int(len(text)/unitCharcters)+1
         #print numberErrorsToBeDone
-        for i in xrange(numberErrorsToBeDone):
+        for i in range(numberErrorsToBeDone):
             indexRandom = random.randint(freqMin, freqMax)
             indexAlteringFunction = random.randint(0, NUMBER_OF_ALTERING_FUNCTIONS-1)
             #print ( "Alterations_made: ", ALTERATIONS_MADE, "\nindex_random: ", indexRandom)
