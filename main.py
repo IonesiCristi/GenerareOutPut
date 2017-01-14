@@ -25,8 +25,8 @@ def generateOutPut(sentence):
     oldSentence = alter.alter(newSentence)
     newSentence = oldSentence
        #print newSentence
-    #newSentence = informal.useContractions(newSentence)
+    newSentence = informal.useContractions(newSentence)
 
     return newSentence
 
-print generateOutPut("I like cats.")
+print(generateOutPut("A carrot is a delicious and nutritious edible orange tuber that can be eaten raw, juiced, or cooked. If humans eat enough of them, you turn orange, I hear."))
