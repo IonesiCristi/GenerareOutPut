@@ -96,7 +96,8 @@ def verifyWriteWrongLetter():
     for i in range(len(text)):
         print("Original text: ", text[i])
         modifyedText = Alter.writeWrongLetter(text[i])
-        print("Modifyed text: ", modifyedText)
+        print ("Modif", modifyedText )
+        print modifyedText
         time.sleep(2)
         print ("\n")
 
@@ -118,5 +119,5 @@ def verifyAlter():
 #verifyUpperFirst2Letters()
 #verifyLowerRandomLetter()
 #verifyAddOnomatopee()
-verifyAlter()
-#verifyWriteWrongLetter()
+#verifyAlter()
+verifyWriteWrongLetter()
