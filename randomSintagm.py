@@ -6,6 +6,10 @@ import random
 # -> altfel, se returneaza o sintagma, reprezentand una din cele 101 intrebari existente
 #############################
 
+
+'''
+The questions are from http://www.conversationstarters.com/101.htm
+'''
 conversationStarters = [
     # Ice breakers
     ["Where did you grow up?", 0 ],
