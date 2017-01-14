@@ -3,7 +3,7 @@ import random
 #############################
 # De aici se foloseste functia   getRandomSintagm() :
 # -> daca returneaza False, inseamna ca au fost folosite deja cele 101 expresii
-# -> altfel, se returneaza o sintagma, reprezentand una din cele 101 intrebari existente
+# -> altfel, se returneaza o sintagma, reprezentand una din cele 101 intrebari existente, care nu a mai fost pusa pana acum
 #############################
 
 
