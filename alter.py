@@ -126,7 +126,6 @@ def alter(text, unitCharcter = 45):
             textNou = listOfFunctions[indexAlteringFunction](text)
             text = textNou
             PROCESSED_ALTERATIONS -= unitCharcters
-            print "modif"
 
         return textNou
     except Exception as e:
