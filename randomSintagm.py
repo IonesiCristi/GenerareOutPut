@@ -1,4 +1,6 @@
 import random
+import main
+
 
 #############################
 # De aici se foloseste functia   getRandomSintagm() :
@@ -147,4 +149,11 @@ def getRandomSintagm():
             print "Au fost folosite toate intrebarile din conversationStarters aparent..."
             return False
 
-print getRandomSintagm()
+
+def getMain():
+    sintagm = getRandomSintagm()
+    if sintagm != False:
+        return main.generateOutPut(sintagm)
+    return sintagm
+
+print getMain()
