@@ -103,13 +103,13 @@ PROCESSED_ALTERATIONS = 0
 #####################
 
 
-def alter(text, unitCharcter = 45):
+def alter(text, unitCharcter = 50 ):
     '''
     Functia alter urmareste sa modifice textul corect, alterandul cu o frecventa
     oarecare, pentru a sugera umanitatea
 
     :param text: textul de modificat
-    :param unitCharcters = 45 -> la fiecare unitCharcters carcatere o sa apara o eroare de scriere, valoare alteranta cu +/- 5 carcatere
+    :param unitCharcters = 50 -> la fiecare unitCharcters carcatere o sa apara o eroare de scriere, valoare alteranta cu +/- 5 carcatere
     :return:
     '''
     try:

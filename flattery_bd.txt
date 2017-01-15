@@ -106,7 +106,7 @@ Its great to be an adult
 advantage
 ##$3##
 100
-Its great to have a advantage
+Its great to have an advantage
 ##$2##
 
 ##$1##
@@ -2494,21 +2494,21 @@ i love the oath
 observation
 ##$3##
 100
-its a nice observation
+its a nice observation. I wish to see have done it myself. :))
 ##$2##
 
 ##$1##
 occasion
 ##$3##
 100
-its a nice occasion
+its a nice occasion, yep.
 ##$2##
 
 ##$1##
 ocean
 ##$3##
 100
-i love the ocean
+i love the ocean and it's sound
 ##$2##
 
 ##$1##
@@ -2529,7 +2529,7 @@ its a nice operation
 opinion
 ##$3##
 100
-its a nice opinion
+its an interesting opinion
 ##$2##
 
 ##$1##
@@ -3504,7 +3504,7 @@ i like a nice weather
 wedding
 ##$3##
 100
-i like a nice wedding
+i enjoy a nice wedding. I like to see people dancing.
 ##$2##
 
 ##$1##
@@ -3532,21 +3532,21 @@ its nice to be a wife
 winter
 ##$3##
 100
-i like the winter
+i like the winter, I receive a lot of gifts in december ^_^
 ##$2##
 
 ##$1##
 wisdom
 ##$3##
 100
-its nice to be a wisdom person
+its nice to be a wisdom person. It takes a life to get there.
 ##$2##
 
 ##$1##
 woman
 ##$3##
 100
-its nice to be a woman
+its nice to be a woman. I have a lot of respect fow women.
 ##$2##
 
 ##$1##
