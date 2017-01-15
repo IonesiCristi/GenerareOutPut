@@ -7,7 +7,10 @@ import generateSynonims
 import random
 #import flattery
 
+flatteryGenerate =0
+
 def generateOutPut(sentence):
+    global flatteryGenerate
 
     wordsToBeReplaced = rawWords.extractEligibleWords(sentence)
 
@@ -15,7 +18,11 @@ def generateOutPut(sentence):
 
     newSentence = replaceWordsWithSyn.replaceWordsWithSyn(synonims,wordsToBeReplaced,sentence)
 
-    randIncurajare = random.randint(0,2)
+    if flatteryGenerate<3:
+        flatteryGenerate = flatteryGenerate +1
+        randIncurajare = 0
+    else:
+        randIncurajare = random.randint(0,1)
 
     randAlter = random.randint(5,7)
 
@@ -30,3 +37,4 @@ def generateOutPut(sentence):
     return newSentence
 
 print(generateOutPut("A carrot is a delicious and nutritious edible orange tuber that can be eaten raw, juiced, or cooked. If humans eat enough of them, you turn orange, I hear."))
+
