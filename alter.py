@@ -20,8 +20,8 @@ def elidateRandomLetter(text):
     textNou =  text[:(index )] + text[index + 1] +text[(index + 2):]
     return textNou
 
-def lowerFirstLetter(text):
-    textNou = text[0].lower() + text[1:]
+def upperFirstLetter(text):
+    textNou = text[0].upper() + text[1:]
     return textNou
 
 def upperFirst2Letters(text):
@@ -95,7 +95,7 @@ def addOnomatopee(text):
 
 #####################
 #atentie! la adaugarea unei noi functii de alterare, a se adauga in lista de mai jos
-listOfFunctions = [inverse2letters, elidateRandomLetter, lowerFirstLetter, upperFirst2Letters, lowerRandomLetter, writeWrongLetter, writeWrongLetter]
+listOfFunctions = [inverse2letters, elidateRandomLetter, upperFirstLetter, upperFirst2Letters, lowerRandomLetter, writeWrongLetter, writeWrongLetter]
 NUMBER_OF_ALTERING_FUNCTIONS = 7 # len(listOfFunctions)
 
 ALTERATIONS_MADE = 0
