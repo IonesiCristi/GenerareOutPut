@@ -129,7 +129,7 @@ def my_main():
     f_bd_search.writelines("")
 
     #conversation
-    print(add_flattery("Brad Pitt have black eye"))
+    #print(add_flattery("Brad Pitt have black eye"))
     print(add_flattery("Brad Pitt have blue eyes"))
     print(add_flattery("Brad Pitt have blue black"))
     print(add_flattery("I buy 1 kg of green. apples"))
