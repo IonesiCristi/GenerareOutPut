@@ -5,7 +5,7 @@ import rawWords
 import replaceWordsWithSyn
 import generateSynonims
 import random
-#import flattery
+
 
 def generateOutPut(sentence):
 
@@ -20,16 +20,19 @@ def generateOutPut(sentence):
 
     randIncurajare = random.randint(0,2)
 
-    randAlter = random.randint(5,7)
 
     if randIncurajare == 1:
         newSentence = incurajatori.creeazaSintagmaMagulire(newSentence)
 
+    print newSentence
     oldSentence = alter.alter(newSentence)
     newSentence = oldSentence
-       #print newSentence
+    print newSentence
+
+    #print newSentence
     newSentence = informal.useContractions(newSentence)
 
     return newSentence
 
-#print(generateOutPut("A carrot is a delicious and nutritious edible orange tuber that can be eaten raw, juiced, or cooked. If humans eat enough of them, you turn orange, I hear."))
+print(generateOutPut("A carrot is a delicious and nutritious edible orange tuber that can be eaten raw, juiced, or cooked. If humans eat enough of them, you turn orange, I hear."))
+

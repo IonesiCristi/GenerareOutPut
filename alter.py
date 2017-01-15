@@ -99,35 +99,35 @@ listOfFunctions = [inverse2letters, elidateRandomLetter, upperFirstLetter, upper
 NUMBER_OF_ALTERING_FUNCTIONS = 7 # len(listOfFunctions)
 
 ALTERATIONS_MADE = 0
+PROCESSED_ALTERATIONS = 0
 #####################
 
 
-def alter(text, freqMin = 1, freqMax = 3):
+def alter(text, unitCharcter = 45):
     '''
     Functia alter urmareste sa modifice textul corect, alterandul cu o frecventa
     oarecare, pentru a sugera umanitatea
 
     :param text: textul de modificat
-    :param freqMin: frecventa minima a alterarilor facute pe unitCharcters caractere prezente
-    :param freqMax: frecventa maxima a alterarilor facute pe unitCharcters caractere prezente
+    :param unitCharcters = 45 -> la fiecare unitCharcters carcatere o sa apara o eroare de scriere, valoare alteranta cu +/- 5 carcatere
     :return:
     '''
     try:
         global ALTERATIONS_MADE
         global NUMBER_OF_ALTERING_FUNCTIONS
-        unitCharcters = 20
-        numberErrorsToBeDone = int(len(text)/unitCharcters)+1
-        #print numberErrorsToBeDone
-        for i in range(numberErrorsToBeDone):
-            indexRandom = random.randint(freqMin, freqMax)
-            indexAlteringFunction = random.randint(0, NUMBER_OF_ALTERING_FUNCTIONS-1)
-            #print ( "Alterations_made: ", ALTERATIONS_MADE, "\nindex_random: ", indexRandom)
-            if ALTERATIONS_MADE >= indexRandom :
-                ALTERATIONS_MADE = 0
-                textNou = listOfFunctions[indexAlteringFunction](text)
-            else:
-                ALTERATIONS_MADE += 1
-                textNou = text
+        global PROCESSED_ALTERATIONS
+
+        PROCESSED_ALTERATIONS += len(text)
+        unitCharcters = unitCharcter + random.randint(5, 10) - 5
+        print unitCharcters
+
+        while PROCESSED_ALTERATIONS > unitCharcters:
+            indexAlteringFunction = random.randint(0, NUMBER_OF_ALTERING_FUNCTIONS - 1)
+            textNou = listOfFunctions[indexAlteringFunction](text)
+            text = textNou
+            PROCESSED_ALTERATIONS -= unitCharcters
+            print "modif"
+
         return textNou
     except Exception as e:
         print ("Avem probleme in functia alter/alter.py : " + str(e))
