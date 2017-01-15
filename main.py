@@ -12,6 +12,9 @@ flatteryGenerate =0
 def generateOutPut(sentence):
     global flatteryGenerate
 
+    newSentence = sentence[0].lower() + sentence[1:]
+    sentence = newSentence
+
     wordsToBeReplaced = rawWords.extractEligibleWords(sentence)
 
     synonims = generateSynonims.generateSynonims(wordsToBeReplaced)
@@ -36,5 +39,4 @@ def generateOutPut(sentence):
 
     return newSentence
 
-print(generateOutPut("A carrot is a delicious and nutritious edible orange tuber that can be eaten raw, juiced, or cooked. If humans eat enough of them, you turn orange, I hear."))
-
+#print(generateOutPut("A carrot is a delicious and nutritious edible orange tuber that can be eaten raw, juiced, or cooked. If humans eat enough of them, you turn orange, I hear."))
