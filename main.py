@@ -32,6 +32,11 @@ def generateOutPut(sentence):
     if randIncurajare == 1:
         newSentence = incurajatori.creeazaSintagmaMagulire(newSentence)
 
+    '''
+    Momentan se altereaza o data la 45-55 caracatere.
+    Daca vi se pare prea des, puteti schimba apeland
+    alter.alter(newSentence, altaFrecventa), cu altaFrecventa de tip int
+    '''
     oldSentence = alter.alter(newSentence)
     newSentence = oldSentence
 
@@ -40,5 +45,5 @@ def generateOutPut(sentence):
 
     return newSentence
 
-print(generateOutPut("A carrot is a delicious and nutritious edible orange tuber that can be eaten raw, juiced, or cooked. Apple s are nice.  If humans eat enough of them, you turn orange, I hear. It's ability to make the sight better is adorable. account me please. accident  "))
+#print(generateOutPut("A carrot is a delicious and nutritious edible orange tuber that can be eaten raw, juiced, or cooked. Apple s are nice.  If humans eat enough of them, you turn orange, I hear. It's ability to make the sight better is adorable. account me please. accident  "))
 
