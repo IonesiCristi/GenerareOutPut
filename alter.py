@@ -119,7 +119,7 @@ def alter(text, unitCharcter = 50 ):
 
         PROCESSED_ALTERATIONS += len(text)
         unitCharcters = unitCharcter + random.randint(5, 10) - 5
-        print unitCharcters
+        print (unitCharcters)
 
         while PROCESSED_ALTERATIONS > unitCharcters:
             indexAlteringFunction = random.randint(0, NUMBER_OF_ALTERING_FUNCTIONS - 1)

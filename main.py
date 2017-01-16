@@ -5,7 +5,7 @@ import rawWords
 import replaceWordsWithSyn
 import generateSynonims
 import random
-import flattery
+#import flattery
 
 
 flatteryGenerate =0
@@ -40,5 +40,5 @@ def generateOutPut(sentence):
 
     return newSentence
 
-print(generateOutPut("A carrot is a delicious and nutritious edible orange tuber that can be eaten raw, juiced, or cooked. Apple s are nice.  If humans eat enough of them, you turn orange, I hear. It's ability to make the sight better is adorable. account me please. accident  "))
+print(generateOutPut("It's abiamty sm to make the sight better is adorable. account me please. accident  "))
 
