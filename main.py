@@ -32,6 +32,11 @@ def generateOutPut(sentence):
     if randIncurajare == 1:
         newSentence = incurajatori.creeazaSintagmaMagulire(newSentence)
 
+    '''
+    Momentan se altereaza o data la 45-55 caracatere.
+    Daca vi se pare prea des, puteti schimba apeland
+    alter.alter(newSentence, altaFrecventa), cu altaFrecventa de tip int
+    '''
     oldSentence = alter.alter(newSentence)
     newSentence = oldSentence
 
