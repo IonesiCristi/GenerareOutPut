@@ -45,5 +45,5 @@ def generateOutPut(sentence):
 
     return newSentence
 
-print(generateOutPut("It's abiamty sm to make the sight better is adorable. account me please. accident  "))
+print(generateOutPut("It's ability are  to make the sight better is adorable. account me please. accident  "))
 

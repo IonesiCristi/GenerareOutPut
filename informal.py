@@ -6,5 +6,6 @@ def useContractions(text):
         " am": "'m"
     }
     for i in dictionar.keys() :
-        text = text.replace (i, dictionar[i])
+        if i in text:
+            text = text.replace (i, dictionar[i])
     return text
